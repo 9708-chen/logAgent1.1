@@ -1,0 +1,7 @@
+2022/06/21 22:26:12.904 [D]  this is a test, my name is stu01
+2022/06/21 22:26:12.904 [D]  this is a trace, my name is stu02
+2022/06/21 22:26:12.904 [W]  this is a warn, my name is stu03
+2022/06/21 22:27:05.600 [W]  this is a warn, my name is stu03~
+2022/06/21 22:27:40.055 [D]  this is a test, my name is stu01~~
+2022/06/21 22:27:40.055 [D]  this is a trace, my name is stu02~~
+2022/06/21 22:27:40.055 [W]  this is a warn, my name is stu03~~2022/06/23 13:12:28.139 [D]  init success
